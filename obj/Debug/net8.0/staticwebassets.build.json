@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8r+BUxxaN8tUCkem/ooB8DMv0M3AABmBmBF7Jk7qcJA=",
+  "Source": "finshark-api",
+  "BasePath": "_content/finshark-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
